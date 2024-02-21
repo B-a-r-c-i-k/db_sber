@@ -3,7 +3,14 @@
 
 Из данного скриншота, сделанного с официального сайта (https://www.dragonflydb.io/features), видно соответствие "C" (1 узел)  
 
-"Based on lessons learned from our experience as users of memory stores and engineers who worked for cloud companies, we knew that we need to preserve two key properties for Dragonfly: Atomicity guarantees for all operations and low, sub-millisecond latency over very high throughput." - цитата с их гитхаба дает соотвествие "А"  
+<img width="291" alt="image" src="https://github.com/B-a-r-c-i-k/db_sber/assets/43545491/d801a106-567f-473f-a337-1c5f147049cf">  
+
+<img width="531" alt="image" src="https://github.com/B-a-r-c-i-k/db_sber/assets/43545491/ac98f49f-478f-4622-b41c-50455dbb84f6">  
+
+Два скриншота выше (аналогично сделанные с официального сайта) дают подтверждение "A".
+
+Итого: CA
+
 
 # ScyllaDB  
 
@@ -19,7 +26,7 @@ https://arenadata.tech/products/arenadata-db/?ysclid=lsugetck3v855771327
 Дает согласованность данных  
 <img width="712" alt="image" src="https://github.com/B-a-r-c-i-k/db_sber/assets/43545491/d1b19a84-965f-4768-a7d1-a25f4e951165">
 Дает устойчивость к разделению  
-Итого - СP
+Итого: СP
 
 
 
