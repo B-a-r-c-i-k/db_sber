@@ -24,7 +24,7 @@ An AP database provides availability and partition tolerance but not consistency
 https://arenadata.tech/products/arenadata-db/?ysclid=lsugetck3v855771327  
 <img width="289" alt="image" src="https://github.com/B-a-r-c-i-k/db_sber/assets/43545491/ebe38e7e-f57f-4cab-bf7f-5f36f7ef552b">  
 Дает согласованность данных  
-<img width="712" alt="image" src="https://github.com/B-a-r-c-i-k/db_sber/assets/43545491/d1b19a84-965f-4768-a7d1-a25f4e951165">
+<img width="712" alt="image" src="https://github.com/B-a-r-c-i-k/db_sber/assets/43545491/d1b19a84-965f-4768-a7d1-a25f4e951165">  
 Дает устойчивость к разделению  
 Итого: СP
 
